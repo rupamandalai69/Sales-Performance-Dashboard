@@ -1,0 +1,16 @@
+date,product,region,amount,quantity
+2025-01-02,Laptop,North,1200.00,1
+2025-01-02,Mouse,North,25.00,2
+2025-01-03,Keyboard,South,45.00,1
+2025-01-03,Monitor,East,300.00,1
+2025-01-04,Headphones,West,80.00,2
+2025-01-05,Laptop,South,1150.00,1
+2025-01-05,Mouse,East,20.00,1
+2025-01-06,Printer,North,250.00,1
+2025-01-06,Keyboard,West,50.00,2
+2025-01-07,Monitor,South,320.00,1
+2025-01-07,Headphones,East,75.00,1
+2025-01-08,Laptop,West,1300.00,1
+2025-01-08,Printer,South,240.00,1
+2025-01-09,Mouse,West,22.00,3
+2025-01-09,Keyboard,North,48.00,1
